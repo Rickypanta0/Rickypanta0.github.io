@@ -1,6 +1,6 @@
 # Portfolio
 
-## [**Demo Website**]()  
+## [**Demo Website**](https://Rickypanta0.github.io)  
 Based on the remote theme [researcher](https://github.com/ankitsultana/researcher), with automatic rendering of the CV using the `index.md` file, merged with the `contacts` section defined in the `_config.yml` file.
 
 ---
@@ -17,7 +17,7 @@ Based on the remote theme [researcher](https://github.com/ankitsultana/researche
 2. In the file `_layouts/default.html` modify the absolute path to CSS in line 28 inside the if statement
 3. Run the project using:
     ```bash
-    `./jekyll_run.sh`
+    ./jekyll_run.sh
 
 ## Customization
 - To modify the `contacts` inside the pdf you must modify the link inside the file `_config.yml`
